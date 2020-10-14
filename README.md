@@ -1,0 +1,2 @@
+# hoster.github.io
+host
